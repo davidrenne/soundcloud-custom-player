@@ -110,6 +110,7 @@
 
 .sc-track-duration {
   text-align: right;
+  display:none;
   float: right;
   padding: 0 5px;
   margin-left: 5px;
